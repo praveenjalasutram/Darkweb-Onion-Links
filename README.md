@@ -132,7 +132,8 @@ Darkweb sites are designed in a way that they cannot be accessed through normal 
 - Suncrypt: http://nbzzb6sa6xuura2z.onion/
 - DarkSide: darksidedxcftmqa.onion
 
-## Other Good Github References:
+## Other Good References:
+- https://en.wikipedia.org/wiki/List_of_Tor_onion_services
 - https://github.com/5ky1ar/Awesome-Onion-Links
 - https://github.com/Giddyspurz/Dark-Web-Links/blob/main/Ransomware-Sites.txt
 - https://github.com/alecmuffett/real-world-onion-sites#real-world-onion-sites
