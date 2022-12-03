@@ -131,3 +131,8 @@ Darkweb sites are designed in a way that they cannot be accessed through normal 
 - Pysa: http://wqmfzni2nvbbpk25.onion/partners.html
 - Suncrypt: http://nbzzb6sa6xuura2z.onion/
 - DarkSide: darksidedxcftmqa.onion
+
+## Other Good Github References:
+- https://github.com/5ky1ar/Awesome-Onion-Links
+- https://github.com/Giddyspurz/Dark-Web-Links/blob/main/Ransomware-Sites.txt
+- https://github.com/alecmuffett/real-world-onion-sites#real-world-onion-sites
