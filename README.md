@@ -96,7 +96,7 @@ Darkweb sites are designed in a way that they cannot be accessed through normal 
 
 ## Narcotics
 - DarkNetLive link: http://darkzzx4avcsuofgfez5zq75cqc4mprjvfqywo45dfcaxrwqg6qrlfid.onion/
-- Silk Road: 
+- Silk Road: http://silkroad7rn2puhj.onion/
 
 ## Tech
 - DEF CON Groups: http://jrw32khnmfehvdsvwdf34mywoqj5emvxh4mzbkls6jk2cb3thcgz6nid.onion/
