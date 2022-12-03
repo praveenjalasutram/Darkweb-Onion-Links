@@ -1,9 +1,9 @@
 # Darkweb-Onion-Links
 
-A collection of important onion sites that you can leverage for surfing across Deep and Darkweb.
+A collection of important onion sites that you can leverage for surfing across Deep and Darkweb and gather relevant intelligence to improve your organization defences and security controls. 
 
 ## Disclaimer (ACCESSING DARKWEB IS HIGHLY RISKY)
-This information is for informative, educational and research purpose only. Do not utilize this information for illegal and unlawful activities. You are solely responsible for your actions.
+This information is for informative, educational and research purpose only. This information can be used for intelligence gathering for your incident investigations and for the purpose of securing your organization. The motive of providing this information is to share intelligence and secure organizations from cyber threats. Do not utilize this information for illegal, unauthorized, and unlawful activities. You are solely responsible for your actions.
 
 ## Caution (ACCESSING DARKWEB IS HIGHLY RISKY):
 - Accessing dark web without proper expertise and precaution can be dangerous. 
