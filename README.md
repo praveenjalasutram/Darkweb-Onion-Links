@@ -132,6 +132,12 @@ Darkweb sites are designed in a way that they cannot be accessed through normal 
 - Suncrypt: http://nbzzb6sa6xuura2z.onion/
 - DarkSide: darksidedxcftmqa.onion
 
+## Some Darkweb related tools
+- OSINT Tools for the Dark Web: https://github.com/apurvsinghgautam/dark-web-osint-tools
+- TorBot: https://github.com/DedSecInside/TorBot
+- DarkScrape: https://github.com/itsmehacker/DarkScrape
+- Cyber Darkweb Scraping: https://github.com/david35008/Cyber-DarkWeb-Scraping
+
 ## Other Good References:
 - https://en.wikipedia.org/wiki/List_of_Tor_onion_services
 - https://github.com/5ky1ar/Awesome-Onion-Links
