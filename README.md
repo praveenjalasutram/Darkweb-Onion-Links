@@ -157,3 +157,5 @@ Darkweb sites are designed in a way that they cannot be accessed through normal 
 - https://github.com/Giddyspurz/Dark-Web-Links/blob/main/Ransomware-Sites.txt
 - https://github.com/alecmuffett/real-world-onion-sites#real-world-onion-sites
 - https://darkwebmagazine.com/dark-web-links/dark-web-sites-links-list-2021/
+- https://deepweblinks.net/
+- https://darkdotnet.com/
