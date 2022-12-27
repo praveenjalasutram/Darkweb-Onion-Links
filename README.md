@@ -132,8 +132,28 @@ Darkweb sites are designed in a way that they cannot be accessed through normal 
 - Suncrypt: http://nbzzb6sa6xuura2z.onion/
 - DarkSide: darksidedxcftmqa.onion
 
+## Chat Rooms
+- Black Hat Chat: http://blkhatjxlrvc5aevqzz5t6kxldayog6jlx5h7glnu44euzongl4fh5ad.onion/
+- Blackhost: https://blackhost7pws76u6vohksdahnm6adf7riukgcmahrwt43wv2drvyxid.onion
+- MEGA Tor: http://ylmjp76zk4ndvgpncbtgzrfsrzpblvlzgtuoduqgygwdlexou64iwfqd.onion/
+- Semen Alert: http://ejaculatelqqkdhpjvjzhjpuldfuup2q37cfgmf6eknikq5xkliep4yd.onion/
+- Random: http://notbumpz34bgbz4yfdigxvd6vzwtxc3zpt5imukgl6bvip2nikdmdaad.onion
+- Teen Video Chat: http://teensvi4m3pzpjd4qjsyg57zbzbpxn6qpqqhld4khzyk4rfr2kup5rqd.onion
+- AbleOnion Chat:http://notbumpz34bgbz4yfdigxvd6vzwtxc3zpt5imukgl6bvip2nikdmdaad.onion/chat
+- Enter Rabbithole: 34vnln24rlakgbk6gpityvljieayyw7q4bhdbbgs6zp2v5nbh345zgad.onion
+- Mad IRC: http://wbi67emmdx6i6rcr6nnk3hco3nrvdc2juxrbvomvt6nze5afjz6pgtad.onion/
+- List of Telegram Chatrooms: https://socradar.io/the-top-10-dark-web-telegram-chat-groups-and-channels/
+
+
+## hacking Services:
+- Dark Zone: http://darkzonzfz7l4ophqzo5as5xv5y6ufjztrkjsqjmlvxjs6j2a4ito7yd.onion/
+- Rent-A-Hacker: http://2ogmrlfzdthnwkez.onion/
+- The BrotherHood: http://brohoodahjzxriv7.onion/
+- 0day.today: http://mvfjfugdwgc5uwho.onion/
+
 ## Other Good References:
 - https://en.wikipedia.org/wiki/List_of_Tor_onion_services
 - https://github.com/5ky1ar/Awesome-Onion-Links
 - https://github.com/Giddyspurz/Dark-Web-Links/blob/main/Ransomware-Sites.txt
 - https://github.com/alecmuffett/real-world-onion-sites#real-world-onion-sites
+- https://darkwebmagazine.com/dark-web-links/dark-web-sites-links-list-2021/
