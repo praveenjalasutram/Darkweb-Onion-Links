@@ -159,3 +159,5 @@ Darkweb sites are designed in a way that they cannot be accessed through normal 
 - https://darkwebmagazine.com/dark-web-links/dark-web-sites-links-list-2021/
 - https://deepweblinks.net/
 - https://darkdotnet.com/
+- https://infosec.exchange/explore
+- https://www.ransomware.live/#/
