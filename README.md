@@ -32,6 +32,7 @@ Darkweb sites are designed in a way that they cannot be accessed through normal 
 ![image](https://user-images.githubusercontent.com/17245435/205417067-0382f9e8-029e-4f27-b96d-a1c62e032d0b.png)
 
 ## Search Engines
+- Darkweblink.com: http://dwltorbltw3tdjskxn23j2mwz2f4q25j4ninl5bdvttiy4xb6cqzikid.onion/
 - Ahmia: http://juhanurmihxlp77nkq76byazcldy2hlmovfu2epvl5ankdibsot4csyd.onion/
 - Deep Search: http://search7tdrcvri22rieiwgi5g46qnwsesvnubqav2xakhezv4hjzkkad.onion/
 - Torch: http://xmh57jrknzkhv6y3ls3ubitzfqnkrwxhopf5aygthi7d6rplyvk3noyd.onion/
