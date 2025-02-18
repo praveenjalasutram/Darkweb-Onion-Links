@@ -45,6 +45,7 @@ Darkweb sites are designed in a way that they cannot be accessed through normal 
 
 ## Marketplaces
 - Hidden Wiki: http://zqktlwiuavvvqqt4ybvgvi7tyo4hjl5xgfuvpdf6otjiycgwqbym2qad.onion
+- Darkweblink.com: http://dwltorbltw3tdjskxn23j2mwz2f4q25j4ninl5bdvttiy4xb6cqzikid.onion
 - SecureDrop: http://sdolvtfhatvsysc6l34d65ymdwxcujausv7k5jk4cy5ttzhjoi6fzvyd.onion/
 - Archive Today: http://archiveiya74codqgiixo33q62qlrqtkgmcitqx5u2oeqnmn5bpcbiyd.onion/
 - Imperial Library: http://kx5thpx2olielkihfyo4jgjqfb7zx7wxr3sd4xzt26ochei4m6f7tayd.onion/
@@ -156,7 +157,9 @@ Darkweb sites are designed in a way that they cannot be accessed through normal 
 - https://github.com/5ky1ar/Awesome-Onion-Links
 - https://github.com/Giddyspurz/Dark-Web-Links/blob/main/Ransomware-Sites.txt
 - https://github.com/alecmuffett/real-world-onion-sites#real-world-onion-sites
+- https://darkweblink.com/
 - https://darkwebmagazine.com/dark-web-links/dark-web-sites-links-list-2021/
+- https://onionhub.com/
 - https://deepweblinks.net/
 - https://darkdotnet.com/
 - https://infosec.exchange/explore
